@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hb-test/static/css/main.2cce8147.chunk.css",
+    "main.js": "/hb-test/static/js/main.67415236.chunk.js",
+    "main.js.map": "/hb-test/static/js/main.67415236.chunk.js.map",
+    "runtime~main.js": "/hb-test/static/js/runtime~main.59446eb0.js",
+    "runtime~main.js.map": "/hb-test/static/js/runtime~main.59446eb0.js.map",
+    "static/js/2.0501f192.chunk.js": "/hb-test/static/js/2.0501f192.chunk.js",
+    "static/js/2.0501f192.chunk.js.map": "/hb-test/static/js/2.0501f192.chunk.js.map",
+    "index.html": "/hb-test/index.html",
+    "precache-manifest.b43762ad4b2bd0b18c487706c147c145.js": "/hb-test/precache-manifest.b43762ad4b2bd0b18c487706c147c145.js",
+    "service-worker.js": "/hb-test/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/hb-test/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/hb-test/static/media/logo.5d5d9eef.svg"
+  }
+}
